@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final startbtn = Material(
       elevation: 5.0,
       borderRadius: BorderRadius.circular(10.0),
-      color: Color(0xff01A0C7),
+      color: Color(0xff01A0C6),
       child: MaterialButton(
         minWidth: MediaQuery.of(context).size.width,
         padding: EdgeInsets.fromLTRB(20.0, 15.0, 20.0, 15.0),
